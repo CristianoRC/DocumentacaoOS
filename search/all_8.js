@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['ordemservico',['OrdemServico',['../class_model_1_1_ordem__de___servico_1_1_ordem_servico.html',1,'Model::Ordem_de_Servico']]]
+  ['tecnico',['tecnico',['../class_model_1_1_pessoa__e___usuario_1_1tecnico.html',1,'Model::Pessoa_e_Usuario']]],
+  ['trabalho',['Trabalho',['../class_model_1_1_trabalho.html',1,'Model']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['backup',['Backup',['../class_model_1_1_backup.html',1,'Model']]]
+  ['email',['Email',['../class_model_1_1_email.html',1,'Model']]],
+  ['empresa',['Empresa',['../class_model_1_1_empresa.html',1,'Model']]]
 ];
