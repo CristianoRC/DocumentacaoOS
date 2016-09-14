@@ -2,21 +2,5 @@ var searchData=
 [
   ['add_5flist_5f100',['Add_List_100',['../class_view_1_1_properties_1_1_resources.html#a6f40125a8a6db7bed92792c0ef2a600e',1,'View::Properties::Resources']]],
   ['apagar',['apagar',['../class_controller_1_1_controller_log.html#a9d773bdefdf1e9ce70c58597e2701cc4',1,'Controller::ControllerLog']]],
-  ['assemblycompany',['AssemblyCompany',['../class_view_1_1_outros_1_1_frm___sobre.html#a8433fa0603c17182376a7cbdc655f4a2',1,'View::Outros::Frm_Sobre']]],
-  ['assemblycopyright',['AssemblyCopyright',['../class_view_1_1_outros_1_1_frm___sobre.html#afed0773db8b9c0492e1756540f9feb79',1,'View::Outros::Frm_Sobre']]],
-  ['assemblydescription',['AssemblyDescription',['../class_view_1_1_outros_1_1_frm___sobre.html#a8dce575534a194e1f25e889c13c7d719',1,'View::Outros::Frm_Sobre']]],
-  ['assemblyinfo_2ecs',['AssemblyInfo.cs',['../_model_2_properties_2_assembly_info_8cs.html',1,'']]],
-  ['assemblyinfo_2ecs',['AssemblyInfo.cs',['../_controller_2_properties_2_assembly_info_8cs.html',1,'']]],
-  ['assemblyinfo_2ecs',['AssemblyInfo.cs',['../_view_2_properties_2_assembly_info_8cs.html',1,'']]],
-  ['assemblyproduct',['AssemblyProduct',['../class_view_1_1_outros_1_1_frm___sobre.html#ab2b4377ad47af889b02e67921581d346',1,'View::Outros::Frm_Sobre']]],
-  ['assemblytitle',['AssemblyTitle',['../class_view_1_1_outros_1_1_frm___sobre.html#a30862d942844e1cc9200426b10567265',1,'View::Outros::Frm_Sobre']]],
-  ['assemblyversion',['AssemblyVersion',['../class_view_1_1_outros_1_1_frm___sobre.html#a71ff2eed7b5d3a9d33b03c32d45cbb02',1,'View::Outros::Frm_Sobre']]],
-  ['atualizalista',['AtualizaLista',['../class_view_1_1_usuario_1_1_frm___listar_usuarios.html#aa40859d9f7081948ca37918f2ae369a7',1,'View::Usuario::Frm_ListarUsuarios']]],
-  ['atualizarlista',['AtualizarLista',['../class_view_1_1_pessoas_1_1_frm___listar_clientes.html#aa392aab97423f1fa2e1e86687bb874a5',1,'View.Pessoas.Frm_ListarClientes.AtualizarLista()'],['../class_view_1_1_servicos_1_1_frm___excluir_servico.html#a86f2b83fd80145e8e2d104fe97f230a4',1,'View.Servicos.Frm_ExcluirServico.AtualizarLista()'],['../class_view_1_1_frm___listar_servico.html#a66823e445204e4738dffe0f964e308ce',1,'View.Frm_ListarServico.AtualizarLista()']]],
-  ['atualizarlistadeos',['atualizarListaDeOS',['../class_view_1_1_frm___servico.html#a6a43013a02e0ebea900bebc24de90c1b',1,'View::Frm_Servico']]],
-  ['atualizarlistaos',['AtualizarListaOS',['../class_view_1_1_o_s_1_1_frm___excluir_o_s.html#ac8a04686d6c3c4e5d75850012f44e3a7',1,'View::OS::Frm_ExcluirOS']]],
-  ['atualziarlistadeusuarios',['AtualziarListaDeUsuarios',['../class_view_1_1_usuario_1_1_frm___excluir_usuario.html#a3ea468f963ee790833d39c7897602188',1,'View::Usuario::Frm_ExcluirUsuario']]],
-  ['atualziarlsitadeclientes',['AtualziarLsitaDeClientes',['../class_view_1_1_pessoas_1_1_frm___clientes.html#ab399ec347cdbddd50d7f37caa57bd437',1,'View.Pessoas.Frm_Clientes.AtualziarLsitaDeClientes()'],['../class_view_1_1_pessoas_1_1_frm___excluir_clientes.html#aa9b90ff3a860399540232233e844feed',1,'View.Pessoas.Frm_ExcluirClientes.AtualziarLsitaDeClientes()']]],
-  ['aualizarlista',['AualizarLista',['../class_view_1_1_o_s_1_1_frm___listar_o_s.html#a5dc9264e2a4f519d3a50b34b308c110a',1,'View::OS::Frm_ListarOS']]],
   ['autenticar',['Autenticar',['../class_controller_1_1_controller_usuario.html#a5c7349d9a4e949f92147ce102b4ed438',1,'Controller::ControllerUsuario']]]
 ];

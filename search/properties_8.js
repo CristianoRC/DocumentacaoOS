@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['juridica',['Juridica',['../class_view_1_1_properties_1_1_resources.html#aead7e3425acb747ea5e06291337d7662',1,'View::Properties::Resources']]]
+  ['print_5f96',['Print_96',['../class_view_1_1_properties_1_1_resources.html#a2de87fb75546e02a4637e2e5b4e5d843',1,'View::Properties::Resources']]]
 ];
