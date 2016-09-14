@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['empresa',['Empresa',['../class_model_1_1_empresa.html',1,'Model']]]
+  ['db',['DB',['../class_controller_1_1_d_b.html',1,'Controller']]]
 ];

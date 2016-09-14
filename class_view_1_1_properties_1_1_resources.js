@@ -1,0 +1,26 @@
+var class_view_1_1_properties_1_1_resources =
+[
+    [ "Resources", "class_view_1_1_properties_1_1_resources.html#a1d1e3867242e0a18d45f10d8294061e5", null ],
+    [ "resourceCulture", "class_view_1_1_properties_1_1_resources.html#ac6a13ec995a3281c1ecbebb1fb58c627", null ],
+    [ "resourceMan", "class_view_1_1_properties_1_1_resources.html#aab431fe7a1f5b87bf4c17bebd8d6ae41", null ],
+    [ "Add_List_100", "class_view_1_1_properties_1_1_resources.html#a6f40125a8a6db7bed92792c0ef2a600e", null ],
+    [ "Bar_Chart_96", "class_view_1_1_properties_1_1_resources.html#a7c4db663e18c894587eefcadf5205e8e", null ],
+    [ "Bill_100", "class_view_1_1_properties_1_1_resources.html#a164efa9c06287c3fae47e275cd127f5f", null ],
+    [ "Cheap_2_100", "class_view_1_1_properties_1_1_resources.html#acaf4cad2e4b12c5ae13ea8e6af06b83c", null ],
+    [ "Create_New_100", "class_view_1_1_properties_1_1_resources.html#aeeb68da829c1cca4db0d4e2b16e41e14", null ],
+    [ "Culture", "class_view_1_1_properties_1_1_resources.html#aa0a2a7fe1d046cd1d9d695a1c7154ecc", null ],
+    [ "Delete_512", "class_view_1_1_properties_1_1_resources.html#a2347760a8742fe5fcbe6df24d28592a2", null ],
+    [ "Delete_File_100", "class_view_1_1_properties_1_1_resources.html#a67f76ae3b631801788e4e44ad97509a2", null ],
+    [ "Edit_User_100", "class_view_1_1_properties_1_1_resources.html#a4dac4d6baebc6550e3fec3889917a013", null ],
+    [ "Fisica", "class_view_1_1_properties_1_1_resources.html#ab3aee60eaebf8ec6cef0347783cb98ac", null ],
+    [ "Juridica", "class_view_1_1_properties_1_1_resources.html#aead7e3425acb747ea5e06291337d7662", null ],
+    [ "List_100", "class_view_1_1_properties_1_1_resources.html#af5f42b370b85bfbd614b571a3f60325d", null ],
+    [ "Lista", "class_view_1_1_properties_1_1_resources.html#a8c8983e0d222be1fd55efac01670b1d8", null ],
+    [ "Print_96", "class_view_1_1_properties_1_1_resources.html#a2de87fb75546e02a4637e2e5b4e5d843", null ],
+    [ "ResourceManager", "class_view_1_1_properties_1_1_resources.html#a461e09a83bcf9d0694e986dcc54b2fc6", null ],
+    [ "Save_32", "class_view_1_1_properties_1_1_resources.html#af54c66315ac1932649ea7c5f20b85530", null ],
+    [ "Search_32", "class_view_1_1_properties_1_1_resources.html#aa1f710a87b33b767c5bf877a5d4b65e7", null ],
+    [ "Service_Bell_100", "class_view_1_1_properties_1_1_resources.html#a04b2f7f60237b7a4364de29666a7c816", null ],
+    [ "System_Report_32", "class_view_1_1_properties_1_1_resources.html#ad0953edf05c3deee609c67acf750f617", null ],
+    [ "US_Dollar_100", "class_view_1_1_properties_1_1_resources.html#aa88402a36a8a333b6bb0c30f7c84eb04", null ]
+];

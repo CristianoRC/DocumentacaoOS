@@ -1,0 +1,27 @@
+var class_view_1_1_frm___email_base_orcamento =
+[
+    [ "Frm_EmailBaseOrcamento", "class_view_1_1_frm___email_base_orcamento.html#a91484c4ad05ac88662dbd6a61c7a2984", null ],
+    [ "códigosHTMLToolStripMenuItem_Click", "class_view_1_1_frm___email_base_orcamento.html#a50ed39ee5d2ab34099b08236e0d8f706", null ],
+    [ "Dispose", "class_view_1_1_frm___email_base_orcamento.html#af7a9842dc8925e7c2994d7894dc6a7f6", null ],
+    [ "Frm_EmailBaseOrcamento_Load", "class_view_1_1_frm___email_base_orcamento.html#abca98968f3b0993b6d36dcb4a384fcf6", null ],
+    [ "InitializeComponent", "class_view_1_1_frm___email_base_orcamento.html#aead41a2f603a280d963f029afaf9c6da", null ],
+    [ "salvarToolStripMenuItem_Click", "class_view_1_1_frm___email_base_orcamento.html#a7899a993a42b1aceca5467ed4c8c14dd", null ],
+    [ "components", "class_view_1_1_frm___email_base_orcamento.html#a2e22a115b23fd93ece22a6193c3b8cab", null ],
+    [ "códigosHTMLToolStripMenuItem", "class_view_1_1_frm___email_base_orcamento.html#ac8c19ae753e5ce2e50589d753a2c056e", null ],
+    [ "label1", "class_view_1_1_frm___email_base_orcamento.html#afd5f7fcb15d2f80795c008aef00706b4", null ],
+    [ "label10", "class_view_1_1_frm___email_base_orcamento.html#a1d2b4fb172c39d36ae56f130ef1267eb", null ],
+    [ "label11", "class_view_1_1_frm___email_base_orcamento.html#a576c455e467f3ccbfee247520504ddff", null ],
+    [ "label12", "class_view_1_1_frm___email_base_orcamento.html#acdd8c3cf8aebcd04026e4397fe3b3e70", null ],
+    [ "label2", "class_view_1_1_frm___email_base_orcamento.html#abd733d7c8f03257b7ecfd912d211f400", null ],
+    [ "label3", "class_view_1_1_frm___email_base_orcamento.html#a4a0d24dfef1908858b2f819d82f5c8ce", null ],
+    [ "label4", "class_view_1_1_frm___email_base_orcamento.html#a004ca2ffe54e0e60c69a9b548136e0ff", null ],
+    [ "label5", "class_view_1_1_frm___email_base_orcamento.html#a249627eca080a6999558e47fff7a021a", null ],
+    [ "label6", "class_view_1_1_frm___email_base_orcamento.html#a082f45977b5ce72410bbbf204032e980", null ],
+    [ "label7", "class_view_1_1_frm___email_base_orcamento.html#a4a73d5e90d8d8a19656bf66b2f1451ad", null ],
+    [ "label8", "class_view_1_1_frm___email_base_orcamento.html#ae693a86fc9105f9ba27803417dd42a8b", null ],
+    [ "label9", "class_view_1_1_frm___email_base_orcamento.html#a40621509fedf9fd183d9ab86f99140df", null ],
+    [ "menuStrip1", "class_view_1_1_frm___email_base_orcamento.html#add41c1f736b064c2771c69de30be0c35", null ],
+    [ "panel1", "class_view_1_1_frm___email_base_orcamento.html#af3ead435483c3a32a7be39ed66c4fee1", null ],
+    [ "salvarToolStripMenuItem", "class_view_1_1_frm___email_base_orcamento.html#ac8a37b92202e8059721b5c44a19c0ba0", null ],
+    [ "Txt_EmailBase", "class_view_1_1_frm___email_base_orcamento.html#aea4353d59ffe2ad8f2c8a7fb989687a9", null ]
+];

@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['pessoa',['Pessoa',['../class_model_1_1_pessoa__e___usuario_1_1_pessoa.html',1,'Model::Pessoa_e_Usuario']]],
-  ['program',['Program',['../class_view_console_1_1_program.html',1,'ViewConsole']]]
+  ['juridica',['Juridica',['../class_view_1_1_properties_1_1_resources.html#aead7e3425acb747ea5e06291337d7662',1,'View::Properties::Resources']]],
+  ['jurídicatoolstripmenuitem_5fclick',['jurídicaToolStripMenuItem_Click',['../class_view_1_1_frm___pai.html#a3cd1dfc2320940eaddefa4e7c8f64ec1',1,'View::Frm_Pai']]]
 ];
