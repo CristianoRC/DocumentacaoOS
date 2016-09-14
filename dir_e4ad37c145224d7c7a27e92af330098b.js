@@ -5,6 +5,6 @@ var dir_e4ad37c145224d7c7a27e92af330098b =
       [ "Resources", "class_view_1_1_properties_1_1_resources.html", "class_view_1_1_properties_1_1_resources" ]
     ] ],
     [ "Settings.Designer.cs", "_settings_8_designer_8cs.html", [
-      [ "Settings", "class_view_1_1_properties_1_1_settings.html", null ]
+      [ "Settings", "class_view_1_1_properties_1_1_settings.html", "class_view_1_1_properties_1_1_settings" ]
     ] ]
 ];

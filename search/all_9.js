@@ -1,12 +1,5 @@
 var searchData=
 [
-  ['formularios_5fusuarios',['Formularios_Usuarios',['../namespace_view_1_1_formularios___usuarios.html',1,'View']]],
-  ['opicoes',['Opicoes',['../namespace_view_1_1_opicoes.html',1,'View']]],
-  ['os',['OS',['../namespace_view_1_1_o_s.html',1,'View']]],
-  ['outros',['Outros',['../namespace_view_1_1_outros.html',1,'View']]],
-  ['pessoas',['Pessoas',['../namespace_view_1_1_pessoas.html',1,'View']]],
-  ['properties',['Properties',['../namespace_view_1_1_properties.html',1,'View']]],
-  ['servicos',['Servicos',['../namespace_view_1_1_servicos.html',1,'View']]],
-  ['usuario',['Usuario',['../namespace_view_1_1_usuario.html',1,'View']]],
-  ['view',['View',['../namespace_view.html',1,'']]]
+  ['juridica',['Juridica',['../class_view_1_1_properties_1_1_resources.html#aead7e3425acb747ea5e06291337d7662',1,'View::Properties::Resources']]],
+  ['jurídicatoolstripmenuitem_5fclick',['jurídicaToolStripMenuItem_Click',['../class_view_1_1_frm___pai.html#a3cd1dfc2320940eaddefa4e7c8f64ec1',1,'View::Frm_Pai']]]
 ];

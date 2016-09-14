@@ -1,5 +1,30 @@
 var class_view_1_1_o_s_1_1_frm___new_ordem =
 [
     [ "Frm_NewOrdem", "class_view_1_1_o_s_1_1_frm___new_ordem.html#ae0b0c69a832a12b724b1fb0e822ffdb7", null ],
-    [ "Dispose", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a68f1ef63c2a8477814cf81a3a4a3128f", null ]
+    [ "button1_Click", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a6392acf69e4f3c3bc606a3d38050279d", null ],
+    [ "Dispose", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a68f1ef63c2a8477814cf81a3a4a3128f", null ],
+    [ "Frm_NewOrdem_Load", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a48c7ddf65e993cd1612cb300941c6748", null ],
+    [ "InitializeComponent", "class_view_1_1_o_s_1_1_frm___new_ordem.html#abb210f45c3cee7ce27df9ace83c3f13b", null ],
+    [ "PreencherOS", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a7a9d9c0fcc9f216c4e86fbd2de673a93", null ],
+    [ "button1", "class_view_1_1_o_s_1_1_frm___new_ordem.html#aedee3fd0942a33983ae14d930b310add", null ],
+    [ "components", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a4dc2aa4525770d607b777e3c420ac56a", null ],
+    [ "IDTecnico", "class_view_1_1_o_s_1_1_frm___new_ordem.html#af216dcc3c94f4142602605f65e9560c3", null ],
+    [ "label1", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a47d7989205ab9dfffd58438641fb38e9", null ],
+    [ "label2", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a6c92b2e62362bc40085ac3d99e97bbab", null ],
+    [ "label3", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a22a26363db3f7cbae82985008f8e166c", null ],
+    [ "label9", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a73d5a530f759f28555bec82620fa1ce4", null ],
+    [ "lBL_dEFEITO", "class_view_1_1_o_s_1_1_frm___new_ordem.html#ac53942b52305926ceddc72593d08ff9a", null ],
+    [ "Lbl_Descricao", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a365aeede99deceabbe45e1aee57b7524", null ],
+    [ "Lbl_Equipamento", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a0255527d252a5f814a551e5421b0b79a", null ],
+    [ "Lbl_Nserie", "class_view_1_1_o_s_1_1_frm___new_ordem.html#aa7a5c9e86fc1610eab626336014a8ce9", null ],
+    [ "Lbl_Observacoes", "class_view_1_1_o_s_1_1_frm___new_ordem.html#aa415831ac4928dc8f924099ea179113a", null ],
+    [ "toolTip1", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a6a5bbba18ffcab39cfb37d1a28651d0e", null ],
+    [ "Txt_Clientes", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a1c04e76ae0e24521c0e3260ded334f4f", null ],
+    [ "Txt_DataEntrada", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a1c84d0621ecc6a5ff173d0f32aafdcc4", null ],
+    [ "Txt_Defeito", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a256b8f7518423cb0ef0629058f185b16", null ],
+    [ "Txt_Descricao", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a3fef54f1d0df220072ef10fc94ce46ad", null ],
+    [ "Txt_Equipamento", "class_view_1_1_o_s_1_1_frm___new_ordem.html#a2f1870725792219aa19ed0ed35f2eef3", null ],
+    [ "Txt_Nserie", "class_view_1_1_o_s_1_1_frm___new_ordem.html#abeec42eac2dc2f959be195f4f9afb38f", null ],
+    [ "Txt_Observacoes", "class_view_1_1_o_s_1_1_frm___new_ordem.html#ad94e7bbb2c18449ae976c7a299117036", null ],
+    [ "Txt_Situacao", "class_view_1_1_o_s_1_1_frm___new_ordem.html#ae2bb3bc5fee50d674a6d2ce2bea7f45f", null ]
 ];

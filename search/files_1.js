@@ -8,6 +8,5 @@ var searchData=
   ['controllerordemservico_2ecs',['ControllerOrdemServico.cs',['../_controller_ordem_servico_8cs.html',1,'']]],
   ['controllerpessoa_2ecs',['ControllerPessoa.cs',['../_controller_pessoa_8cs.html',1,'']]],
   ['controllerservico_2ecs',['ControllerServico.cs',['../_controller_servico_8cs.html',1,'']]],
-  ['controllertrabalho_2ecs',['ControllerTrabalho.cs',['../_controller_trabalho_8cs.html',1,'']]],
   ['controllerusuario_2ecs',['ControllerUsuario.cs',['../_controller_usuario_8cs.html',1,'']]]
 ];
