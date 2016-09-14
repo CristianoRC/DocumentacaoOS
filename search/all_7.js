@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['host',['Host',['../class_model_1_1_email.html#a83c0e904c2a20128fd9c9de2c73d9145',1,'Model::Email']]]
+  ['juridica',['Juridica',['../class_view_1_1_properties_1_1_resources.html#aead7e3425acb747ea5e06291337d7662',1,'View::Properties::Resources']]]
 ];
