@@ -1,7 +1,9 @@
 var searchData=
 [
-  ['finalizaros',['FinalizarOS',['../class_controller_1_1_controller_ordem_servico.html#a676131e9ff57914f2d66a9355ccb5705',1,'Controller::ControllerOrdemServico']]],
-  ['finalizartoolstripmenuitem_5fclick',['finalizarToolStripMenuItem_Click',['../class_view_1_1_frm___servico.html#a704cdd5baacfbfcae08a7621d1be31fa',1,'View::Frm_Servico']]],
-  ['frm_5feditaros',['Frm_EditarOS',['../class_view_1_1_o_s_1_1_frm___editar_o_s.html#a63d58f37b9a190e8334b4ded350b3184',1,'View::OS::Frm_EditarOS']]],
-  ['frm_5fservico_5fload',['Frm_Servico_Load',['../class_view_1_1_frm___servico.html#a15cdd06b138680b08ccf9f5ee64f4fa9',1,'View::Frm_Servico']]]
+  ['editar',['Editar',['../class_controller_1_1_controller_ordem_servico.html#a4480ec49570d4259004397cf2d65b7ee',1,'Controller.ControllerOrdemServico.Editar()'],['../class_controller_1_1_controller_pessoa.html#ac84b9a762d3bfac04c07e27f3f811ec9',1,'Controller.ControllerPessoa.Editar()'],['../class_controller_1_1_controller_usuario.html#a157bf27694525b086ccbb4f4443a64fe',1,'Controller.ControllerUsuario.Editar()']]],
+  ['enviar',['enviar',['../class_controller_1_1_controller_log.html#a5e26efdd36f5fb3504afadc846b44447',1,'Controller::ControllerLog']]],
+  ['enviararquivolog',['EnviarArquivoLog',['../class_controller_1_1_controller_email.html#a50104a8b9ea21b078abe28e2c274cf64',1,'Controller::ControllerEmail']]],
+  ['enviarinformacoesosfinalizada',['EnviarInformacoesOSFinalizada',['../class_controller_1_1_controller_email.html#a3911f4fb750fa3cc83d05e5a66ab106a',1,'Controller::ControllerEmail']]],
+  ['enviarordemdeserviço',['EnviarOrdemDeServiço',['../class_controller_1_1_controller_email.html#aab27e1d9d9379a4066ee6ec18da2ffdb',1,'Controller::ControllerEmail']]],
+  ['extrairarquivozip',['ExtrairArquivoZip',['../class_controller_1_1_controller_backup.html#a9d5471a7b64c74eb78f3fe3e75ccc086',1,'Controller::ControllerBackup']]]
 ];
