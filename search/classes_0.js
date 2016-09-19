@@ -7,6 +7,7 @@ var searchData=
   ['controllerlog',['ControllerLog',['../class_controller_1_1_controller_log.html',1,'Controller']]],
   ['controllerordemservico',['ControllerOrdemServico',['../class_controller_1_1_controller_ordem_servico.html',1,'Controller']]],
   ['controllerpessoa',['ControllerPessoa',['../class_controller_1_1_controller_pessoa.html',1,'Controller']]],
+  ['controllerrelatorio',['ControllerRelatorio',['../class_controller_1_1_controller_relatorio.html',1,'Controller']]],
   ['controllerservico',['ControllerServico',['../class_controller_1_1_controller_servico.html',1,'Controller']]],
   ['controllerusuario',['ControllerUsuario',['../class_controller_1_1_controller_usuario.html',1,'Controller']]]
 ];

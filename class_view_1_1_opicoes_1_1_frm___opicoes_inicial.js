@@ -8,7 +8,6 @@ var class_view_1_1_opicoes_1_1_frm___opicoes_inicial =
     [ "InitializeComponent", "class_view_1_1_opicoes_1_1_frm___opicoes_inicial.html#a50b20a51662bf6551183aac33b0f425c", null ],
     [ "Btm_Salvar", "class_view_1_1_opicoes_1_1_frm___opicoes_inicial.html#a93462c96901062a9f82bf5460d1aea70", null ],
     [ "button1", "class_view_1_1_opicoes_1_1_frm___opicoes_inicial.html#a9dbef7561a769ccee14ee91e3821d603", null ],
-    [ "Check_Informações", "class_view_1_1_opicoes_1_1_frm___opicoes_inicial.html#a1d0bac51d1583b096a7f41e0aaa7a1eb", null ],
     [ "components", "class_view_1_1_opicoes_1_1_frm___opicoes_inicial.html#a952f5f1ddc658a79badf64f70047a3ce", null ],
     [ "label1", "class_view_1_1_opicoes_1_1_frm___opicoes_inicial.html#ab7083612c391d120b16ec0af66e7e9a4", null ],
     [ "label2", "class_view_1_1_opicoes_1_1_frm___opicoes_inicial.html#a36513e37e380967bd19d72c16069c471", null ],
