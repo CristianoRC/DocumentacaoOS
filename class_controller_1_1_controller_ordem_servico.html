@@ -108,6 +108,9 @@ Métodos Públicos Estáticos</h2></td></tr>
 <tr class="memitem:a1feee1f740bf46e0fe69a542322c5612"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="class_model_1_1_ordem__de___servico_1_1_ordem_servico.html">OrdemServico</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_controller_1_1_controller_ordem_servico.html#a1feee1f740bf46e0fe69a542322c5612">Carregar</a> (int ID)</td></tr>
 <tr class="memdesc:a1feee1f740bf46e0fe69a542322c5612"><td class="mdescLeft">&#160;</td><td class="mdescRight">Carregando as informações da tabela para a classe de OS.  <a href="#a1feee1f740bf46e0fe69a542322c5612">Mais...</a><br /></td></tr>
 <tr class="separator:a1feee1f740bf46e0fe69a542322c5612"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a376fe0a401af650338eca156f58c07e2"><td class="memItemLeft" align="right" valign="top">static DataTable&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_controller_1_1_controller_ordem_servico.html#a376fe0a401af650338eca156f58c07e2">CarregarListaComFiltroDePesquisa</a> (string filtroSQL, int IDCliente)</td></tr>
+<tr class="memdesc:a376fe0a401af650338eca156f58c07e2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retorna um DataTable com todas as Ordens de serviço, utilizando um filtro de pesquisa~.  <a href="#a376fe0a401af650338eca156f58c07e2">Mais...</a><br /></td></tr>
+<tr class="separator:a376fe0a401af650338eca156f58c07e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a419caff344ad39f89a1f2e2389463511"><td class="memItemLeft" align="right" valign="top">static DataTable&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_controller_1_1_controller_ordem_servico.html#a419caff344ad39f89a1f2e2389463511">CarregarLista</a> ()</td></tr>
 <tr class="memdesc:a419caff344ad39f89a1f2e2389463511"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retorna um DataTable com todas as Ordens de serviço.  <a href="#a419caff344ad39f89a1f2e2389463511">Mais...</a><br /></td></tr>
 <tr class="separator:a419caff344ad39f89a1f2e2389463511"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -117,9 +120,9 @@ Métodos Públicos Estáticos</h2></td></tr>
 <tr class="memitem:a7e2db0928e24d7b67cae93919e779299"><td class="memItemLeft" align="right" valign="top">static DataTable&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_controller_1_1_controller_ordem_servico.html#a7e2db0928e24d7b67cae93919e779299">CarregarListaDeIds</a> ()</td></tr>
 <tr class="memdesc:a7e2db0928e24d7b67cae93919e779299"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retorna um DataTable com todas as Ordens de serviço.  <a href="#a7e2db0928e24d7b67cae93919e779299">Mais...</a><br /></td></tr>
 <tr class="separator:a7e2db0928e24d7b67cae93919e779299"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab654664303816784c19d79b524432b28"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_controller_1_1_controller_ordem_servico.html#ab654664303816784c19d79b524432b28">CreatPDF</a> (<a class="el" href="class_model_1_1_ordem__de___servico_1_1_ordem_servico.html">OrdemServico</a> OSBase)</td></tr>
-<tr class="memdesc:ab654664303816784c19d79b524432b28"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gerando PDF da ordem de serviço. (A ordem de serviço em PDF não fica salvar ela é gerada cada vez que a função é chamada)  <a href="#ab654664303816784c19d79b524432b28">Mais...</a><br /></td></tr>
-<tr class="separator:ab654664303816784c19d79b524432b28"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa472ea88bbae0934811a67972ce305ae"><td class="memItemLeft" align="right" valign="top">static DataTable&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_controller_1_1_controller_ordem_servico.html#aa472ea88bbae0934811a67972ce305ae">CarregarListaOrcamentos</a> ()</td></tr>
+<tr class="memdesc:aa472ea88bbae0934811a67972ce305ae"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retorna um DataTable com todas os orçamentos.(Ordemd e serviço com Situação = Orçamento)  <a href="#aa472ea88bbae0934811a67972ce305ae">Mais...</a><br /></td></tr>
+<tr class="separator:aa472ea88bbae0934811a67972ce305ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-methods"></a>
 Métodos Privados Estáticos</h2></td></tr>
@@ -190,6 +193,45 @@ Métodos Privados Estáticos</h2></td></tr>
 
 </div>
 </div>
+<a id="a376fe0a401af650338eca156f58c07e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a376fe0a401af650338eca156f58c07e2">&sect;&nbsp;</a></span>CarregarListaComFiltroDePesquisa()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static DataTable Controller.ControllerOrdemServico.CarregarListaComFiltroDePesquisa </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>filtroSQL</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>IDCliente</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Retorna um DataTable com todas as Ordens de serviço, utilizando um filtro de pesquisa~. </p>
+<dl class="section return"><dt>Retorna</dt><dd>The lista.</dd></dl>
+
+</div>
+</div>
 <a id="a7e2db0928e24d7b67cae93919e779299"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7e2db0928e24d7b67cae93919e779299">&sect;&nbsp;</a></span>CarregarListaDeIds()</h2>
 
@@ -246,8 +288,8 @@ Métodos Privados Estáticos</h2></td></tr>
 
 </div>
 </div>
-<a id="ab654664303816784c19d79b524432b28"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab654664303816784c19d79b524432b28">&sect;&nbsp;</a></span>CreatPDF()</h2>
+<a id="aa472ea88bbae0934811a67972ce305ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa472ea88bbae0934811a67972ce305ae">&sect;&nbsp;</a></span>CarregarListaOrcamentos()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -256,10 +298,9 @@ Métodos Privados Estáticos</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static void Controller.ControllerOrdemServico.CreatPDF </td>
+          <td class="memname">static DataTable Controller.ControllerOrdemServico.CarregarListaOrcamentos </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="class_model_1_1_ordem__de___servico_1_1_ordem_servico.html">OrdemServico</a>&#160;</td>
-          <td class="paramname"><em>OSBase</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -270,22 +311,8 @@ Métodos Privados Estáticos</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Gerando PDF da ordem de serviço. (A ordem de serviço em PDF não fica salvar ela é gerada cada vez que a função é chamada) </p>
-<dl class="params"><dt>Parâmetros</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">Identificador</td><td></td></tr>
-    <tr><td class="paramname">Referencia</td><td></td></tr>
-    <tr><td class="paramname">Situacao</td><td></td></tr>
-    <tr><td class="paramname">Defeito</td><td></td></tr>
-    <tr><td class="paramname">Descricao</td><td></td></tr>
-    <tr><td class="paramname">Observacao</td><td></td></tr>
-    <tr><td class="paramname">NumeroSerie</td><td></td></tr>
-    <tr><td class="paramname">Equipamento</td><td></td></tr>
-    <tr><td class="paramname">DataEntradaServico</td><td></td></tr>
-    <tr><td class="paramname">Cliente</td><td></td></tr>
-  </table>
-  </dd>
-</dl>
+<p>Retorna um DataTable com todas os orçamentos.(Ordemd e serviço com Situação = Orçamento) </p>
+<dl class="section return"><dt>Retorna</dt><dd>The lista.</dd></dl>
 
 </div>
 </div>
