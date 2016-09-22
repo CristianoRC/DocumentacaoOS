@@ -1,0 +1,147 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(wp.png);
+  font-family: 'Lato';
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.buttons-ctn {
+  will-change: transform;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  margin-left: -340px;
+  margin-top: -30px;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
+.button {
+  will-change: transform;
+  position: relative;
+  display: inline-block;
+  padding: 35px;
+  width: 340px;
+  text-align: center;
+  line-height: normal;
+  -webkit-transition: all 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: all 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
+/* BTM's*/
+}
+.button--left {
+  background: #141414;
+  color: white;  
+}
+
+.button--left:hover{
+box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, .10);
+}
+
+.button--right {
+  background: #ebebeb;
+  color: #141414;
+}
+.button--right:hover{
+box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, .10);
+}
+/* BTM's*/
+
+.button--active {
+  cursor: default;
+}
+.button--active span {
+  opacity: 0;
+}
+
+.button__content {
+  display: block;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  padding: 60px 20px;
+  text-align: center;
+  width: 600px;
+  visibility: hidden;
+  opacity: 0;
+  z-index: 10;
+  color: white;
+}
+.button__content--left {
+  color: white;
+}
+.button__content--left a {
+  color: #141414;
+  background: white;
+}
+.button__content--right {
+  color: #141414;
+}
+.button__content--right a {
+  color: white;
+  background: #141414;
+}
+.button__content--active {
+  opacity: 1;
+  visibility: visible;
+}
+.button__content a {
+  display: inline-block;
+  padding: 10px 20px;
+}
+.button__content h2 {
+  font-size: 36px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 300;
+}
+@media (max-width: 650px) {
+  .button__content {
+    width: 295px;
+  }
+}
+
+main {
+  color: white;
+  text-align: center;
+}
+main h1 {
+  font-weight: 300;
+  margin-bottom: 8px;
+  margin-top: 24px;
+}
+main p {
+  margin-top: 0;
+}
+main p a {
+  font-size: 20px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 24px;
+  color: rgba(0, 0, 0, 0.6);
+}
+h1 {
+  color: black;
+  font-size: 44px;
+}
+p{
+  color: black;
+}
+img{
+margin-top: 65px;
+position: relative;
+}

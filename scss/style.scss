@@ -1,0 +1,141 @@
+@mixin easeOut {
+  transition: all .35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+$black: lighten(black, 8);
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(wp.png);
+  background-attachment: fixed;
+  background-repeat: no-repeat; 
+  font-family: 'Lato';
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.buttons-ctn {
+  will-change: transform;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -140px;
+  margin-top: -30px;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+}
+
+.button {
+  will-change: transform;
+  position: relative;
+  float: left;
+  display: inline-block;
+  padding: 20px;
+  width: 140px;
+  text-align: center;
+  line-height: normal;
+  @include easeOut;
+  
+  &--left {
+    background: $black;
+    color: white;
+  }
+  
+  &--right {
+    background: darken(white, 8);
+    color: $black;
+  }
+  
+  &--active {
+   cursor: default;
+    
+   span {
+     opacity: 0;
+    }
+  }
+}
+
+.button__content {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 60px 20px;
+  text-align: center;
+  width: 600px;
+  visibility: hidden;
+  opacity: 0;
+  z-index: 10;
+  color: white;
+  
+  &--left {
+    color: white;
+    
+    a {
+      color: $black;
+      background: white;
+    }
+  }
+  
+  &--right {
+    color: $black;
+    
+    a {
+      color: white;
+      background: $black;
+    }
+  }
+  
+  &--active {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  a {
+    display: inline-block;
+    padding: 10px 20px;
+  }
+  
+  h2 {
+    font-size: 36px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 300;
+  }
+  
+  @media (max-width: 650px) {
+    width: 295px;
+  }
+}
+
+main {
+  color: white;
+  text-align: center;
+  h1 {
+    font-weight: 300;
+    margin-bottom: 8px;
+    margin-top: 24px;
+  }
+  
+  p {
+    margin-top: 0;
+    
+    a {
+      font-size: 20px;
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 24px;
+      color: rgba(black, 0.6);
+    }
+  } 
+}
