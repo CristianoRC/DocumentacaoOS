@@ -82,7 +82,6 @@ var class_view_1_1_frm___pai =
     [ "toolStripStatusLabel1", "class_view_1_1_frm___pai.html#aeff407966627d5ce9cb643b49bd9ecfd", null ],
     [ "toolStripStatusLabel2", "class_view_1_1_frm___pai.html#aa80b94f59ef14365e3abd162c8605e79", null ],
     [ "toolStripStatusLabel3", "class_view_1_1_frm___pai.html#a8381cb7c06e450d7ff477e92cfcf8d50", null ],
-    [ "toolTip", "class_view_1_1_frm___pai.html#aa77c259dddbe53ae5f1f5927a310d0c4", null ],
     [ "Usuario", "class_view_1_1_frm___pai.html#a47044147dcb7fb8720f83e6071e9ff2e", null ],
     [ "usuariosToolStripMenuItem", "class_view_1_1_frm___pai.html#ab478166a6dc7572d6f057682b92794ff", null ]
 ];

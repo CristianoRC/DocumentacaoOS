@@ -22,8 +22,8 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"class_view_1_1_frm___pai.html#a011ae6f736ddda3d0eb1d9a9ed3c3bfa",
-"class_view_1_1_outros_1_1_frm___sobre.html#a71ff2eed7b5d3a9d33b03c32d45cbb02"
+"class_view_1_1_frm___pai.html",
+"class_view_1_1_outros_1_1_frm___sobre.html#a6627eab7e483584b02209f8ddb54e0ac"
 ];
 
 var SYNCONMSG = 'clique para desativar a sincronização do painel';
