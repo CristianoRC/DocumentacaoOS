@@ -4,6 +4,6 @@ var namespace_model =
     [ "Pessoa_e_Usuario", "namespace_model_1_1_pessoa__e___usuario.html", "namespace_model_1_1_pessoa__e___usuario" ],
     [ "Email", "class_model_1_1_email.html", "class_model_1_1_email" ],
     [ "Empresa", "class_model_1_1_empresa.html", "class_model_1_1_empresa" ],
-    [ "ServicoBase", "class_model_1_1_servico_base.html", "class_model_1_1_servico_base" ],
-    [ "Trabalho", "class_model_1_1_trabalho.html", "class_model_1_1_trabalho" ]
+    [ "Servico", "class_model_1_1_servico.html", "class_model_1_1_servico" ],
+    [ "ServicoBase", "class_model_1_1_servico_base.html", "class_model_1_1_servico_base" ]
 ];

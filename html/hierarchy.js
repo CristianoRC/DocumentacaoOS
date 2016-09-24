@@ -19,7 +19,6 @@ var hierarchy =
     [ "Controller.Ferramentas", "class_controller_1_1_ferramentas.html", null ],
     [ "Form", null, [
       [ "View.Formularios_Usuarios.Frm_NewUsu", "class_view_1_1_formularios___usuarios_1_1_frm___new_usu.html", null ],
-      [ "View.Frm_Backup", "class_view_1_1_frm___backup.html", null ],
       [ "View.Frm_ConfigEmail", "class_view_1_1_frm___config_email.html", null ],
       [ "View.Frm_EmailBase", "class_view_1_1_frm___email_base.html", null ],
       [ "View.Frm_ImprimirOS", "class_view_1_1_frm___imprimir_o_s.html", null ],
@@ -48,7 +47,7 @@ var hierarchy =
     [ "View.Program", "class_view_1_1_program.html", null ],
     [ "View.Properties.Resources", "class_view_1_1_properties_1_1_resources.html", null ],
     [ "Model.Ordem_de_Servico.Servico", "class_model_1_1_ordem__de___servico_1_1_servico.html", null ],
+    [ "Model.Servico", "class_model_1_1_servico.html", null ],
     [ "Model.ServicoBase", "class_model_1_1_servico_base.html", null ],
-    [ "Model.Pessoa_e_Usuario.tecnico", "class_model_1_1_pessoa__e___usuario_1_1tecnico.html", null ],
-    [ "Model.Trabalho", "class_model_1_1_trabalho.html", null ]
+    [ "Model.Pessoa_e_Usuario.tecnico", "class_model_1_1_pessoa__e___usuario_1_1tecnico.html", null ]
 ];

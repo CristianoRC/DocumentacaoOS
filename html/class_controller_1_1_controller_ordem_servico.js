@@ -8,7 +8,7 @@ var class_controller_1_1_controller_ordem_servico =
     [ "CarregarListaOrcamentos", "class_controller_1_1_controller_ordem_servico.html#aa472ea88bbae0934811a67972ce305ae", null ],
     [ "Deletar", "class_controller_1_1_controller_ordem_servico.html#ac932f0a47101d2582f2b65d8c87add48", null ],
     [ "Editar", "class_controller_1_1_controller_ordem_servico.html#a4480ec49570d4259004397cf2d65b7ee", null ],
-    [ "FinalizarOS", "class_controller_1_1_controller_ordem_servico.html#a676131e9ff57914f2d66a9355ccb5705", null ],
+    [ "FinalizarOS", "class_controller_1_1_controller_ordem_servico.html#aeb5e0ed384e573d7ef5809e4def74a64", null ],
     [ "PreencherOS", "class_controller_1_1_controller_ordem_servico.html#adf9e9d91b9aa947e400999e229c6cef2", null ],
     [ "Salvar", "class_controller_1_1_controller_ordem_servico.html#aa775eac3bfcb112f77f7e107c2b199b3", null ]
 ];
