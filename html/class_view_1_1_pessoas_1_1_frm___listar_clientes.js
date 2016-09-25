@@ -1,7 +1,7 @@
 var class_view_1_1_pessoas_1_1_frm___listar_clientes =
 [
     [ "Frm_ListarClientes", "class_view_1_1_pessoas_1_1_frm___listar_clientes.html#ac6dae111880d24196085e8bbfad881cc", null ],
-    [ "AtualizarLista", "class_view_1_1_pessoas_1_1_frm___listar_clientes.html#aa392aab97423f1fa2e1e86687bb874a5", null ],
+    [ "AtualizarInformacoesDoGrid", "class_view_1_1_pessoas_1_1_frm___listar_clientes.html#ae160bfa41d111ac3334449be97ec08ed", null ],
     [ "Btm_Atualizar_Click", "class_view_1_1_pessoas_1_1_frm___listar_clientes.html#aa1db5e0b16d64a8c40effb0792e55ee2", null ],
     [ "Data_Os_CellMouseDoubleClick", "class_view_1_1_pessoas_1_1_frm___listar_clientes.html#af294a1fcc20cbe59d0b878dd6dfe83a7", null ],
     [ "Dispose", "class_view_1_1_pessoas_1_1_frm___listar_clientes.html#aaa9fcab6a719b3171f83c3eee48c63bf", null ],

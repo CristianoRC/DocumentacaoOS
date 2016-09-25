@@ -3,6 +3,7 @@ var class_view_1_1_properties_1_1_resources =
     [ "Resources", "class_view_1_1_properties_1_1_resources.html#a1d1e3867242e0a18d45f10d8294061e5", null ],
     [ "resourceCulture", "class_view_1_1_properties_1_1_resources.html#ac6a13ec995a3281c1ecbebb1fb58c627", null ],
     [ "resourceMan", "class_view_1_1_properties_1_1_resources.html#aab431fe7a1f5b87bf4c17bebd8d6ae41", null ],
+    [ "Accounting_50", "class_view_1_1_properties_1_1_resources.html#a89370e26b2175f3f357e3b98ec135103", null ],
     [ "Add_List_100", "class_view_1_1_properties_1_1_resources.html#a6f40125a8a6db7bed92792c0ef2a600e", null ],
     [ "Bar_Chart_96", "class_view_1_1_properties_1_1_resources.html#a7c4db663e18c894587eefcadf5205e8e", null ],
     [ "Bill_100", "class_view_1_1_properties_1_1_resources.html#a164efa9c06287c3fae47e275cd127f5f", null ],

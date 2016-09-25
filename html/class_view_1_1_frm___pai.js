@@ -26,6 +26,7 @@ var class_view_1_1_frm___pai =
     [ "listarToolStripMenuItem2_Click", "class_view_1_1_frm___pai.html#ad69070b0b1aff0b4e7d25c70c1de6f85", null ],
     [ "listarToolStripMenuItem_Click", "class_view_1_1_frm___pai.html#a4e49427461923a4bb236d7eb6b983fd5", null ],
     [ "listarUsuáriosToolStripMenuItem_Click", "class_view_1_1_frm___pai.html#a5baafcba426a0644601cf096a7717575", null ],
+    [ "menuStrip1_ItemClicked", "class_view_1_1_frm___pai.html#a107fb81644d5f00ad4b46f927b10019e", null ],
     [ "novaF5ToolStripMenuItem_Click", "class_view_1_1_frm___pai.html#ac8cbd43682dc5266cf41e2fd3121d760", null ],
     [ "novoToolStripMenuItem2_Click", "class_view_1_1_frm___pai.html#a6c1483bc0f9c10a10d00d1567b59c2f7", null ],
     [ "novoToolStripMenuItem_Click", "class_view_1_1_frm___pai.html#ab3270d87a2548bf9d4e516f5efabb27a", null ],
@@ -66,7 +67,9 @@ var class_view_1_1_frm___pai =
     [ "ordemDeServiçoToolStripMenuItem", "class_view_1_1_frm___pai.html#a6c05dda04039a6e4365c16ea7b2dacff", null ],
     [ "ordensDeServiçosToolStripMenuItem", "class_view_1_1_frm___pai.html#ad253bd7858b97af53f53abff9827f5fa", null ],
     [ "orçamentoToolStripMenuItem", "class_view_1_1_frm___pai.html#a7b0c147c594d62a785e34a034a4f51ae", null ],
+    [ "pDFToolStripMenuItem", "class_view_1_1_frm___pai.html#a2cb5c3861fc42d765b683ed4cadc37b0", null ],
     [ "pessoaToolStripMenuItem", "class_view_1_1_frm___pai.html#a90ce53ac9d3d4cbd45fa90893d450cdb", null ],
+    [ "relatóriosToolStripMenuItem", "class_view_1_1_frm___pai.html#a9cfdb8eb7e38fe7dce6ccfe2cdb82042", null ],
     [ "reportarBugsToolStripMenuItem", "class_view_1_1_frm___pai.html#a517d34051b2b9d887e39b0ff40b54b28", null ],
     [ "sairToolStripMenuItem", "class_view_1_1_frm___pai.html#ab20a07b30fcc55786f64f7dd9789d7eb", null ],
     [ "servidorToolStripMenuItem", "class_view_1_1_frm___pai.html#ad0310eda0849b77549e5006e4ee13c76", null ],
@@ -81,5 +84,6 @@ var class_view_1_1_frm___pai =
     [ "toolStripStatusLabel2", "class_view_1_1_frm___pai.html#aa80b94f59ef14365e3abd162c8605e79", null ],
     [ "toolStripStatusLabel3", "class_view_1_1_frm___pai.html#a8381cb7c06e450d7ff477e92cfcf8d50", null ],
     [ "Usuario", "class_view_1_1_frm___pai.html#a47044147dcb7fb8720f83e6071e9ff2e", null ],
-    [ "usuariosToolStripMenuItem", "class_view_1_1_frm___pai.html#ab478166a6dc7572d6f057682b92794ff", null ]
+    [ "usuariosToolStripMenuItem", "class_view_1_1_frm___pai.html#ab478166a6dc7572d6f057682b92794ff", null ],
+    [ "xLSXToolStripMenuItem", "class_view_1_1_frm___pai.html#a01adc20a2cd467a7c59322c2315b9989", null ]
 ];
