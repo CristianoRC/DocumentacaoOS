@@ -83,6 +83,7 @@ $(document).ready(function(){initNavTree('class_view_1_1_usuario_1_1_frm___exclu
 
 <div class="header">
   <div class="summary">
+<a href="#pub-methods">Métodos Públicos</a> &#124;
 <a href="#pro-methods">Métodos Protegidos</a> &#124;
 <a href="#pri-methods">Métodos Privados</a> &#124;
 <a href="#pri-attribs">Atributos Privados</a> &#124;
@@ -94,6 +95,12 @@ $(document).ready(function(){initNavTree('class_view_1_1_usuario_1_1_frm___exclu
 
 <p>Herdeiro de Form.</p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
+Métodos Públicos</h2></td></tr>
+<tr class="memitem:afefacd9183fd9d6c822efdaa0bb249cb"><td class="memItemLeft" align="right" valign="top"><a id="afefacd9183fd9d6c822efdaa0bb249cb"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>Frm_ExcluirUsuario</b> (String p_NomeUsuario)</td></tr>
+<tr class="separator:afefacd9183fd9d6c822efdaa0bb249cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Métodos Protegidos</h2></td></tr>
 <tr class="memitem:a7e223b80d6938778468f333f47137ad0"><td class="memItemLeft" align="right" valign="top">override void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_view_1_1_usuario_1_1_frm___excluir_usuario.html#a7e223b80d6938778468f333f47137ad0">Dispose</a> (bool disposing)</td></tr>
@@ -111,12 +118,18 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>Frm_ExcluirUsuario_Lo
 <tr class="memitem:a3ea468f963ee790833d39c7897602188"><td class="memItemLeft" align="right" valign="top"><a id="a3ea468f963ee790833d39c7897602188"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>AtualziarListaDeUsuarios</b> ()</td></tr>
 <tr class="separator:a3ea468f963ee790833d39c7897602188"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ea65d198917349aad1fb3df884815e1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_view_1_1_usuario_1_1_frm___excluir_usuario.html#a0ea65d198917349aad1fb3df884815e1">VerificarLoginAtualComODaExclusao</a> (String LoginASerExcluido)</td></tr>
+<tr class="memdesc:a0ea65d198917349aad1fb3df884815e1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Verifica se o login que esta sendo usado é o mesmo que vai ser excluido.  <a href="#a0ea65d198917349aad1fb3df884815e1">Mais...</a><br /></td></tr>
+<tr class="separator:a0ea65d198917349aad1fb3df884815e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac644db71d3f1a481a8ef131c495a1b9c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_view_1_1_usuario_1_1_frm___excluir_usuario.html#ac644db71d3f1a481a8ef131c495a1b9c">InitializeComponent</a> ()</td></tr>
 <tr class="memdesc:ac644db71d3f1a481a8ef131c495a1b9c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Required method for Designer support - do not modify the contents of this method with the code editor.  <a href="#ac644db71d3f1a481a8ef131c495a1b9c">Mais...</a><br /></td></tr>
 <tr class="separator:ac644db71d3f1a481a8ef131c495a1b9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Atributos Privados</h2></td></tr>
+<tr class="memitem:adaf1ed53160963e82de1ca491d491c20"><td class="memItemLeft" align="right" valign="top"><a id="adaf1ed53160963e82de1ca491d491c20"></a>
+String&#160;</td><td class="memItemRight" valign="bottom"><b>LoginUsuarioAtual</b></td></tr>
+<tr class="separator:adaf1ed53160963e82de1ca491d491c20"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5ee98782148e90ec28cecb4659aac7eb"><td class="memItemLeft" align="right" valign="top">System.ComponentModel.IContainer&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_view_1_1_usuario_1_1_frm___excluir_usuario.html#a5ee98782148e90ec28cecb4659aac7eb">components</a> = null</td></tr>
 <tr class="memdesc:a5ee98782148e90ec28cecb4659aac7eb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Required designer variable.  <a href="#a5ee98782148e90ec28cecb4659aac7eb">Mais...</a><br /></td></tr>
 <tr class="separator:a5ee98782148e90ec28cecb4659aac7eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -189,6 +202,41 @@ System.Windows.Forms.ComboBox&#160;</td><td class="memItemRight" valign="bottom"
 </div><div class="memdoc">
 
 <p>Required method for Designer support - do not modify the contents of this method with the code editor. </p>
+
+</div>
+</div>
+<a id="a0ea65d198917349aad1fb3df884815e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ea65d198917349aad1fb3df884815e1">&sect;&nbsp;</a></span>VerificarLoginAtualComODaExclusao()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool View.Usuario.Frm_ExcluirUsuario.VerificarLoginAtualComODaExclusao </td>
+          <td>(</td>
+          <td class="paramtype">String&#160;</td>
+          <td class="paramname"><em>LoginASerExcluido</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Verifica se o login que esta sendo usado é o mesmo que vai ser excluido. </p>
+<dl class="section return"><dt>Retorna</dt><dd><code>true</code>, if login atual COM O da exclusao was verificared, <code>false</code> otherwise.</dd></dl>
+<dl class="params"><dt>Parâmetros</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">LoginASerExcluido</td><td>Login A ser excluido.</td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>

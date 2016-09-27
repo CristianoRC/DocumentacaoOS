@@ -6,7 +6,8 @@ var searchData=
   ['carregarinformacoesloginservidor',['CarregarInformacoesLoginServidor',['../class_controller_1_1_controller_email.html#ac68ef7a0fec9c1541aab01dbbb5d3702',1,'Controller::ControllerEmail']]],
   ['carregarlista',['CarregarLista',['../class_controller_1_1_controller_ordem_servico.html#a419caff344ad39f89a1f2e2389463511',1,'Controller.ControllerOrdemServico.CarregarLista()'],['../class_controller_1_1_controller_servico.html#a7c4a4076ddac03cc5845a60857647546',1,'Controller.ControllerServico.CarregarLista()'],['../class_controller_1_1_controller_pessoa.html#ac42063cbbee187a419b0ac35b6a77c10',1,'Controller.ControllerPessoa.CarregarLista()'],['../class_controller_1_1_controller_usuario.html#a874e7967be1dea8aa048218154f23053',1,'Controller.ControllerUsuario.CarregarLista()']]],
   ['carregarlistacomfiltrodepesquisa',['CarregarListaComFiltroDePesquisa',['../class_controller_1_1_controller_ordem_servico.html#a376fe0a401af650338eca156f58c07e2',1,'Controller::ControllerOrdemServico']]],
-  ['carregarlistadeids',['CarregarListaDeIds',['../class_controller_1_1_controller_ordem_servico.html#a7e2db0928e24d7b67cae93919e779299',1,'Controller.ControllerOrdemServico.CarregarListaDeIds()'],['../class_controller_1_1_controller_servico.html#aa6d2c64183cddc8fe9ce3935c0c1e6d6',1,'Controller.ControllerServico.CarregarListaDeIds()']]],
+  ['carregarlistadeids',['CarregarListaDeIds',['../class_controller_1_1_controller_ordem_servico.html#a7e2db0928e24d7b67cae93919e779299',1,'Controller::ControllerOrdemServico']]],
+  ['carregarlistadeidsdasordensdeservico',['CarregarListaDeIdsDasOrdensDeServico',['../class_controller_1_1_controller_servico.html#a8283e3ed3e7554bce9dde567c5581125',1,'Controller::ControllerServico']]],
   ['carregarlistadeidsnaofinalizados',['CarregarListaDeIdsNaoFinalizados',['../class_controller_1_1_controller_ordem_servico.html#ab3e5ad1dd2f0fc09b9f8d058fc4daf6d',1,'Controller::ControllerOrdemServico']]],
   ['carregarlistadenomes',['CarregarListaDeNomes',['../class_controller_1_1_controller_pessoa.html#ac81a1be1d47c83dd6f9fd49c72eb7d46',1,'Controller.ControllerPessoa.CarregarListaDeNomes()'],['../class_controller_1_1_controller_usuario.html#a631bd6dec2c0e04b6d5cd0b64bf2667f',1,'Controller.ControllerUsuario.CarregarListaDeNomes()']]],
   ['carregarlistaorcamentos',['CarregarListaOrcamentos',['../class_controller_1_1_controller_ordem_servico.html#aa472ea88bbae0934811a67972ce305ae',1,'Controller::ControllerOrdemServico']]],
@@ -20,11 +21,11 @@ var searchData=
   ['controllerlog',['ControllerLog',['../class_controller_1_1_controller_log.html',1,'Controller']]],
   ['controllerordemservico',['ControllerOrdemServico',['../class_controller_1_1_controller_ordem_servico.html',1,'Controller']]],
   ['controllerpessoa',['ControllerPessoa',['../class_controller_1_1_controller_pessoa.html',1,'Controller']]],
-  ['controllerrelatorio',['ControllerRelatorio',['../class_controller_1_1_controller_relatorio.html',1,'Controller']]],
+  ['controllerrelatoriospdf',['ControllerRelatoriosPDF',['../class_controller_1_1_controller_relatorios_p_d_f.html',1,'Controller']]],
+  ['controllerrelatoriosxlsx',['ControllerRelatoriosXLSX',['../class_controller_1_1_controller_relatorios_x_l_s_x.html',1,'Controller']]],
   ['controllerservico',['ControllerServico',['../class_controller_1_1_controller_servico.html',1,'Controller']]],
   ['controllerusuario',['ControllerUsuario',['../class_controller_1_1_controller_usuario.html',1,'Controller']]],
   ['create_5fnew_5f100',['Create_New_100',['../class_view_1_1_properties_1_1_resources.html#aeeb68da829c1cca4db0d4e2b16e41e14',1,'View::Properties::Resources']]],
-  ['creatpdf',['CreatPDF',['../class_controller_1_1_controller_relatorio.html#a7290350509d67aa73fbabdb8a73866b3',1,'Controller::ControllerRelatorio']]],
   ['criararquivozip',['CriarArquivoZip',['../class_controller_1_1_controller_backup.html#a2d7ead7a3dce74574fbf4b8d94184bd6',1,'Controller::ControllerBackup']]],
   ['culture',['Culture',['../class_view_1_1_properties_1_1_resources.html#aa0a2a7fe1d046cd1d9d695a1c7154ecc',1,'View::Properties::Resources']]]
 ];

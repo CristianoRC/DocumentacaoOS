@@ -105,15 +105,18 @@ Métodos Públicos Estáticos</h2></td></tr>
 <tr class="memitem:a7c4a4076ddac03cc5845a60857647546"><td class="memItemLeft" align="right" valign="top">static DataTable&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_controller_1_1_controller_servico.html#a7c4a4076ddac03cc5845a60857647546">CarregarLista</a> ()</td></tr>
 <tr class="memdesc:a7c4a4076ddac03cc5845a60857647546"><td class="mdescLeft">&#160;</td><td class="mdescRight">Carregando lista de servicos executados.  <a href="#a7c4a4076ddac03cc5845a60857647546">Mais...</a><br /></td></tr>
 <tr class="separator:a7c4a4076ddac03cc5845a60857647546"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa6d2c64183cddc8fe9ce3935c0c1e6d6"><td class="memItemLeft" align="right" valign="top">static DataTable&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_controller_1_1_controller_servico.html#aa6d2c64183cddc8fe9ce3935c0c1e6d6">CarregarListaDeIds</a> ()</td></tr>
-<tr class="memdesc:aa6d2c64183cddc8fe9ce3935c0c1e6d6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Carregando lista de Ids Serviços executados.  <a href="#aa6d2c64183cddc8fe9ce3935c0c1e6d6">Mais...</a><br /></td></tr>
-<tr class="separator:aa6d2c64183cddc8fe9ce3935c0c1e6d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8283e3ed3e7554bce9dde567c5581125"><td class="memItemLeft" align="right" valign="top">static DataTable&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_controller_1_1_controller_servico.html#a8283e3ed3e7554bce9dde567c5581125">CarregarListaDeIdsDasOrdensDeServico</a> ()</td></tr>
+<tr class="memdesc:a8283e3ed3e7554bce9dde567c5581125"><td class="mdescLeft">&#160;</td><td class="mdescRight">Carrega uma lista de ids das Ordens de serviço que contém um serviço.  <a href="#a8283e3ed3e7554bce9dde567c5581125">Mais...</a><br /></td></tr>
+<tr class="separator:a8283e3ed3e7554bce9dde567c5581125"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-methods"></a>
 Métodos Privados Estáticos</h2></td></tr>
 <tr class="memitem:a2771f417ddfa14468a8f6aa426fc1d50"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="class_model_1_1_servico.html">Servico</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_controller_1_1_controller_servico.html#a2771f417ddfa14468a8f6aa426fc1d50">PreencherTrabalho</a> (DataTable tabela)</td></tr>
 <tr class="memdesc:a2771f417ddfa14468a8f6aa426fc1d50"><td class="mdescLeft">&#160;</td><td class="mdescRight">Preenchendo a classe Serviço com as informações de um DataTabel  <a href="#a2771f417ddfa14468a8f6aa426fc1d50">Mais...</a><br /></td></tr>
 <tr class="separator:a2771f417ddfa14468a8f6aa426fc1d50"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a88740d2a021307d11ee15e542d4b4e0e"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_controller_1_1_controller_servico.html#a88740d2a021307d11ee15e542d4b4e0e">ReverterStatusDaOrdemDeServico</a> (int IDOrdemDeServico)</td></tr>
+<tr class="memdesc:a88740d2a021307d11ee15e542d4b4e0e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reverte o status da Ordemd e serviço quando o serviço é excluido, o Status volta para Manutenção, pois não pdoe háver uma Ordem de serviço finalizada sem um serviço criado.  <a href="#a88740d2a021307d11ee15e542d4b4e0e">Mais...</a><br /></td></tr>
+<tr class="separator:a88740d2a021307d11ee15e542d4b4e0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Métodos</h2>
 <a id="a8e19f19ea5628f13e301a1f95bf05896"></a>
@@ -178,8 +181,8 @@ Métodos Privados Estáticos</h2></td></tr>
 
 </div>
 </div>
-<a id="aa6d2c64183cddc8fe9ce3935c0c1e6d6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa6d2c64183cddc8fe9ce3935c0c1e6d6">&sect;&nbsp;</a></span>CarregarListaDeIds()</h2>
+<a id="a8283e3ed3e7554bce9dde567c5581125"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8283e3ed3e7554bce9dde567c5581125">&sect;&nbsp;</a></span>CarregarListaDeIdsDasOrdensDeServico()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -188,7 +191,7 @@ Métodos Privados Estáticos</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static DataTable Controller.ControllerServico.CarregarListaDeIds </td>
+          <td class="memname">static DataTable Controller.ControllerServico.CarregarListaDeIdsDasOrdensDeServico </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -201,8 +204,8 @@ Métodos Privados Estáticos</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Carregando lista de Ids Serviços executados. </p>
-<dl class="section return"><dt>Retorna</dt><dd>The lista.</dd></dl>
+<p>Carrega uma lista de ids das Ordens de serviço que contém um serviço. </p>
+<dl class="section return"><dt>Retorna</dt><dd>Lista de Ids Das ordens de serviço.</dd></dl>
 
 </div>
 </div>
@@ -269,6 +272,40 @@ Métodos Privados Estáticos</h2></td></tr>
 <dl class="params"><dt>Parâmetros</dt><dd>
   <table class="params">
     <tr><td class="paramname">tabela</td><td>Tabela.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a88740d2a021307d11ee15e542d4b4e0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a88740d2a021307d11ee15e542d4b4e0e">&sect;&nbsp;</a></span>ReverterStatusDaOrdemDeServico()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void Controller.ControllerServico.ReverterStatusDaOrdemDeServico </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>IDOrdemDeServico</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reverte o status da Ordemd e serviço quando o serviço é excluido, o Status volta para Manutenção, pois não pdoe háver uma Ordem de serviço finalizada sem um serviço criado. </p>
+<dl class="params"><dt>Parâmetros</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">IDOrdemDeServico</td><td>Identifier ordem de servico.</td></tr>
   </table>
   </dd>
 </dl>
