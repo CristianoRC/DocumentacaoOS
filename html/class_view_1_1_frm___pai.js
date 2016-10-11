@@ -37,6 +37,8 @@ var class_view_1_1_frm___pai =
     [ "toolStripMenuItem1_Click", "class_view_1_1_frm___pai.html#a011ae6f736ddda3d0eb1d9a9ed3c3bfa", null ],
     [ "toolStripMenuItem2_Click", "class_view_1_1_frm___pai.html#a013d88a9327fb7327b393273f52a6c01", null ],
     [ "toolStripMenuItem3_Click", "class_view_1_1_frm___pai.html#a35d5ce65c55a14cf8a0b27d95d388bc5", null ],
+    [ "toolStripMenuItem5_Click", "class_view_1_1_frm___pai.html#a66cc35835beee3e0c613daf11cc55593", null ],
+    [ "toolStripMenuItem6_Click", "class_view_1_1_frm___pai.html#a2cfc06fadf28eed92d41cb7f67273a95", null ],
     [ "blocoDeNotasToolStripMenuItem", "class_view_1_1_frm___pai.html#acfb5c43653c51e3fc38feef93caec9c1", null ],
     [ "calculadoraToolStripMenuItem", "class_view_1_1_frm___pai.html#ad11af93ffcfae181283f15d68a78d879", null ],
     [ "clientesToolStripMenuItem", "class_view_1_1_frm___pai.html#a0bcf59b4e23b6fca5115de438f390fd4", null ],
