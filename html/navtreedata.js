@@ -23,7 +23,7 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "class_view_1_1_frm___pai.html#a0dff3f388adeb1446225fbf8be4e5cdf",
-"class_view_1_1_outros_1_1_frm___sobre.html#a315adf609f22ac3759346c3b7f20a775"
+"class_view_1_1_opicoes_1_1_frm___opicoes_inicial.html#ad0bcee0da57722866d91a3d47b31b39e"
 ];
 
 var SYNCONMSG = 'clique para desativar a sincronização do painel';
